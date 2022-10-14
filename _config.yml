@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Tobias Garcia Vega"
   avatar           : "profile.png"
-  bio              : "Philosophy PhD Student"
+  bio              : "PhD Student, Philosophy"
   location         : 
-  employer         : "University of Illinois Chicago"
+  employer         : "University of Illinois at Chicago"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=h-BSl1YAAAAJ"
-  email            : "tgarci34 AT uic DOT edu"
+  email            : "tgarci34@uic.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,6 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
+  academia	   : "https://uic.academia.edu/TobiasGarciaVega"
   github           : 
   google_plus      :
   keybase          :
